@@ -1,6 +1,7 @@
-# Welcome to your CDK TypeScript project
+# AWS Fargate service that sends to SNS then SQS
+![Alt text](./images/Screenshot%202022-07-25%20013317.png)
 
-This is a blank project for CDK development with TypeScript.
+This is a sample project from [serverlessland cdk patterns](https://serverlessland.com/patterns/cdk-fargate-sns-sqs)
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
